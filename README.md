@@ -22,6 +22,6 @@ Make sure your layout looks like this:
 
 ![The Onyx Layout in the Javelin key layout tool](images/layout.png)
 
-Your layout can be changed in the [Javelin Key Layout Tool](https://lim.au/#/software/javelin-steno-tools/key-layout), or by pressing `Edit Layout` in the `Key map` section of the firmware builder.
+Your layout can be changed in the [Javelin Key Layout Tool](https://lim.au/#/software/javelin-steno-tools/key-layout) after you have flashed your firmware, or by pressing `Edit Layout` in the `Key map` section of the firmware builder.
 
 ![The Edit Layout button in the Javelin Firmware Builder](images/edit-layout-button.png)
