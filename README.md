@@ -1,6 +1,6 @@
 # Onyx Layout Javelin System
 
-System / Layout for [Onyx](https://github.com/Grahp/Onyx).
+[Javelin](https://lim.au/#/software/javelin-steno) System / Layout for [Onyx](https://github.com/Grahp/Onyx).
 
 If you're on plover, see https://github.com/Grahp/plover-onyx-layout
 
