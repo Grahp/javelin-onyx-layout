@@ -10,6 +10,9 @@ If you're using Plover, see https://github.com/Grahp/plover-onyx-layout
 
 ## Setup
 
+> [!WARNING]
+> You should always back up your User Dictionary before switching systems on Javelin!
+
 In the `Hardware` section of the [Javelin Firmware Builder](https://lim.au/#/software/javelin-steno), enable `Show expert options`.
 
 ![The Show expert options button enabled](images/show-expert-options.png)
