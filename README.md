@@ -10,9 +10,9 @@ If you're using Plover, see https://github.com/Grahp/plover-onyx-layout
 
 ## Setup
 
-In the `Hardware` section of the [Javelin Firmware Builder](https://lim.au/#/software/javelin-steno), enable `Show Expert Options`.
+In the `Hardware` section of the [Javelin Firmware Builder](https://lim.au/#/software/javelin-steno), enable `Show expert options`.
 
-![The Show Expert Options button enabled](images/show-expert-options.png)
+![The Show expert options button enabled](images/show-expert-options.png)
 
 In the `System` section of the firmware builder, select the `english-onyx-plover.yaml` file as your system file.
 
