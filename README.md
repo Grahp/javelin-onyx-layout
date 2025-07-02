@@ -2,7 +2,7 @@
 
 [Javelin](https://lim.au/#/software/javelin-steno) System / Layout for [Onyx](https://github.com/Grahp/Onyx).
 
-If you're on plover, see https://github.com/Grahp/plover-onyx-layout
+If you're using Plover, see https://github.com/Grahp/plover-onyx-layout
 
 ## Layout Diagram
 
